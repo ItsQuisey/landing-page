@@ -2,8 +2,25 @@
     border: 1px solid red;
 }
 
+
 .section1, .footer {
     background-color: #1F2937;
+}
+
+.hero-logo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+ul {
+    display: flex;
+    
+}
+
+li {
+    list-style: none;
 }
 
 h1 {
