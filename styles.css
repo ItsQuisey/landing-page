@@ -79,7 +79,6 @@ body {
     justify-content: center;
     align-items: baseline;
     flex-wrap: wrap;
-    width: 300px;
     gap: 32px;
 }
 
