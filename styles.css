@@ -128,3 +128,49 @@ body {
 
 /* CALL TO ACTION SECTION */
 
+.fourth-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    margin: 15px 0;
+
+}
+
+.fourth-section .call-to-action {
+    background-color: #3882F6;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 700px;
+    border-radius: 2%;
+    padding: 15px 50px;
+}
+
+.fourth-section .left-side {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.fourth-section .call {
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.fourth-section .right-side {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    width: 200px;
+}
+
+.fourth-section button {
+    border: 2px solid white;
+}
+
+.fourth-section .message {
+    margin-top: -10px;
+}
+
